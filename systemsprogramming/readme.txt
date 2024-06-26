@@ -1,7 +1,5 @@
 # Sistem Programlama Ödevi
 Eda Eren 
-G201210085
-2B
 
 #Amaç
 Bu projenin amacı, Libfdr kütüphanesini kullanırken terminalde ismi girilen giriş dosyasından okunan verilerin "yaz, sil, sonagit, dur" komutlarını okuyup istenilen şekilde işleyerek kod içerisinde, terminalden verilen çıkış ismine uygun şekilde bir çıkış dosyası oluşturularak o dosya içerisine yazdırılmasıdır.
